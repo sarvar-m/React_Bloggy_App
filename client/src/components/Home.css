@@ -1,0 +1,35 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.home-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn-posts {
+    background-color: #007bff;
+}
+
+.btn-create {
+    background-color: #28a745;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

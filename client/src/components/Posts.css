@@ -1,0 +1,16 @@
+.posts-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.post {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.post h2 {
+    margin-bottom: 0.5rem;
+}
